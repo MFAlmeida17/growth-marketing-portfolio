@@ -14,4 +14,7 @@
 
 ### 1. "Codex" and "Claude Code" Extensions returning "No Result" in Cursor Marketplace
 - **Key Finding**: Searching for "Codex" and "Claude Code" inside Cursor's built-in extension panel returned "No Result". The default integrated marketplace environment is structured primarily for MCP (Model Context Protocol) servers (such as Slack, Figma, and Datadog).
+
+![Cursor Marketplace search for Codex returning No Result](assets/cursor-marketplace-error.png)
+
 - **Resolution**: Since Claude's LLM core functionalities are already natively embedded directly into Cursor's central Chat and Composer interfaces, downloading a standalone add-on is technically redundant for this setup. I leveraged the native environment to proceed with documenting the project, demonstrating clear critical thinking and technical judgment when facing ambiguous instructions.
