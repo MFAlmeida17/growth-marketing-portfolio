@@ -1,0 +1,302 @@
+{'lang': 'en', 'text': "- What's up guys.", 'offset': 120, 'duration': 833}
+{'lang': 'en', 'text': 'So, in this video.', 'offset': 953, 'duration': 833}
+{'lang': 'en', 'text': "I'm gonna teach you how I took one", 'offset': 1786, 'duration': 1284}
+{'lang': 'en', 'text': "of my client's websites,", 'offset': 3070, 'duration': 1100}
+{'lang': 'en', 'text': 'from zero to over 145,000,', 'offset': 4170, 'duration': 2510}
+{'lang': 'en', 'text': 'visitors per month,', 'offset': 6680, 'duration': 1000}
+{'lang': 'en', 'text': 'with SEO, link building.', 'offset': 7680, 'duration': 1560}
+{'lang': 'en', 'text': 'So, if you wanna get more traffic.', 'offset': 9240, 'duration': 1420}
+{'lang': 'en', 'text': 'If you wanna increase your rankings.', 'offset': 10660, 'duration': 1270}
+{'lang': 'en', 'text': 'If you want to see\nbetter results with SEO,', 'offset': 11930, 'duration': 2630}
+{'lang': 'en', 'text': 'then this video will\nteach you exactly how.', 'offset': 14560, 'duration': 2550}
+{'lang': 'en', 'text': 'By the way, before you jump in.', 'offset': 17110, 'duration': 1300}
+{'lang': 'en', 'text': "I have just released my\n'Link Building Mastery' book.", 'offset': 18410, 'duration': 2860}
+{'lang': 'en', 'text': "And that's gonna teach you,", 'offset': 21270, 'duration': 1220}
+{'lang': 'en', 'text': 'exactly how to build more links.', 'offset': 22490, 'duration': 1990}
+{'lang': 'en', 'text': 'How to get higher quality links,', 'offset': 24480, 'duration': 1230}
+{'lang': 'en', 'text': 'and how to make sure your\nrank is actually increased,', 'offset': 25710, 'duration': 2260}
+{'lang': 'en', 'text': 'when you build those\nbacklinks to your site.', 'offset': 27970, 'duration': 1470}
+{'lang': 'en', 'text': 'So, make sure you grab it for free.', 'offset': 29440, 'duration': 1620}
+{'lang': 'en', 'text': 'The website is seojulian.com.', 'offset': 31060, 'duration': 2750}
+{'lang': 'en', 'text': 'And that Link will help you a lot.', 'offset': 33810, 'duration': 2210}
+{'lang': 'en', 'text': "With that, let's cut to the chase.", 'offset': 36020, 'duration': 1700}
+{'lang': 'en', 'text': 'So, the first thing is with this website,', 'offset': 37720, 'duration': 2020}
+{'lang': 'en', 'text': 'they literally started from zero.', 'offset': 39740, 'duration': 1330}
+{'lang': 'en', 'text': 'Okay.', 'offset': 41070, 'duration': 833}
+{'lang': 'en', 'text': 'So, there are no traffic, no authority,', 'offset': 41903, 'duration': 1417}
+{'lang': 'en', 'text': 'no backlinks to their website.', 'offset': 43320, 'duration': 1820}
+{'lang': 'en', 'text': 'And they were kind of in a position,', 'offset': 45140, 'duration': 1740}
+{'lang': 'en', 'text': "where you just didn't really have", 'offset': 46880, 'duration': 2540}
+{'lang': 'en', 'text': 'that many momentum, yet.', 'offset': 49420, 'duration': 1140}
+{'lang': 'en', 'text': "They, they hadn't really got going.", 'offset': 50560, 'duration': 2100}
+{'lang': 'en', 'text': 'So, the first thing we did,', 'offset': 52660, 'duration': 2360}
+{'lang': 'en', 'text': 'was start building links\nwith something called, HARO.', 'offset': 55020, 'duration': 3240}
+{'lang': 'en', 'text': "And if you're not familiar with HARO?", 'offset': 58260, 'duration': 1530}
+{'lang': 'en', 'text': 'HARO is helpareporter.com.', 'offset': 59790, 'duration': 1650}
+{'lang': 'en', 'text': 'And this is basically a website,', 'offset': 61440, 'duration': 1740}
+{'lang': 'en', 'text': 'where journalists posts\nall the opportunities', 'offset': 63180, 'duration': 2950}
+{'lang': 'en', 'text': 'that you can pitch to,', 'offset': 66130, 'duration': 1390}
+{'lang': 'en', 'text': 'to get your website featured on this.', 'offset': 67520, 'duration': 1940}
+{'lang': 'en', 'text': 'Right?', 'offset': 69460, 'duration': 833}
+{'lang': 'en', 'text': 'So, for example,', 'offset': 70293, 'duration': 833}
+{'lang': 'en', 'text': 'forbes.com may posts on there and the say,', 'offset': 71126, 'duration': 1241}
+{'lang': 'en', 'text': '"hey, we\'re looking for experts', 'offset': 72367, 'duration': 1443}
+{'lang': 'en', 'text': 'to talk about the best software', 'offset': 73810, 'duration': 2090}
+{'lang': 'en', 'text': 'in the legal industry."', 'offset': 75900, 'duration': 2100}
+{'lang': 'en', 'text': 'And then you can reply to that pitch.', 'offset': 78000, 'duration': 2010}
+{'lang': 'en', 'text': 'And if you convince a journalist', 'offset': 80010, 'duration': 2550}
+{'lang': 'en', 'text': "to feature you, you'll be featured", 'offset': 82560, 'duration': 1900}
+{'lang': 'en', 'text': 'and get back on to your site.', 'offset': 84460, 'duration': 1250}
+{'lang': 'en', 'text': 'In fact, one of the links', 'offset': 85710, 'duration': 1380}
+{'lang': 'en', 'text': 'that we got for our clients, from HARO,', 'offset': 87090, 'duration': 2280}
+{'lang': 'en', 'text': 'was a Forbes.com link.', 'offset': 89370, 'duration': 1790}
+{'lang': 'en', 'text': 'Normally, they go for like a $1000', 'offset': 91160, 'duration': 1910}
+{'lang': 'en', 'text': 'or $2,000 a pop.', 'offset': 93070, 'duration': 1650}
+{'lang': 'en', 'text': 'We got it for free with HARO.', 'offset': 94720, 'duration': 1530}
+{'lang': 'en', 'text': 'So, that shows you just how powerful', 'offset': 96250, 'duration': 1540}
+{'lang': 'en', 'text': 'this platform is.', 'offset': 97790, 'duration': 960}
+{'lang': 'en', 'text': 'And the great thing about HARO,', 'offset': 98750, 'duration': 1980}
+{'lang': 'en', 'text': "is that you're getting backlinks", 'offset': 100730, 'duration': 1130}
+{'lang': 'en', 'text': 'from real websites', 'offset': 101860, 'duration': 1550}
+{'lang': 'en', 'text': 'that have genuine journalists\naround the content.', 'offset': 103410, 'duration': 2250}
+{'lang': 'en', 'text': 'The content is super high quality.', 'offset': 105660, 'duration': 2096}
+{'lang': 'en', 'text': 'And when you get links from HARO?', 'offset': 107756, 'duration': 2794}
+{'lang': 'en', 'text': 'These are very safe links, you know,', 'offset': 110550, 'duration': 1580}
+{'lang': 'en', 'text': "you're not buying links from PBN's.", 'offset': 112130, 'duration': 1650}
+{'lang': 'en', 'text': "You're not buying paid links.", 'offset': 113780, 'duration': 1750}
+{'lang': 'en', 'text': "You're not doing anything remotely dodgy.", 'offset': 115530, 'duration': 1930}
+{'lang': 'en', 'text': "You're just building\nlinks on real websites", 'offset': 117460, 'duration': 2310}
+{'lang': 'en', 'text': 'that want to feature you,', 'offset': 119770, 'duration': 920}
+{'lang': 'en', 'text': "because you're an expert", 'offset': 120690, 'duration': 1180}
+{'lang': 'en', 'text': "on what you're talking about.", 'offset': 121870, 'duration': 1230}
+{'lang': 'en', 'text': 'So, HARO is such a powerful platform,', 'offset': 123100, 'duration': 1830}
+{'lang': 'en', 'text': 'right now.', 'offset': 124930, 'duration': 833}
+{'lang': 'en', 'text': 'However, what I will say,', 'offset': 125763, 'duration': 1587}
+{'lang': 'en', 'text': "is that it's very competitive too.", 'offset': 127350, 'duration': 1990}
+{'lang': 'en', 'text': 'And you really need to optimize', 'offset': 129340, 'duration': 1790}
+{'lang': 'en', 'text': 'your pitches on HARO,', 'offset': 131130, 'duration': 1260}
+{'lang': 'en', 'text': 'if you want to get backlinks from it.', 'offset': 132390, 'duration': 2120}
+{'lang': 'en', 'text': 'So, what do I mean by this?', 'offset': 134510, 'duration': 1210}
+{'lang': 'en', 'text': 'Well, when you send pictures for example,', 'offset': 135720, 'duration': 1580}
+{'lang': 'en', 'text': 'when we send pictures for this website.', 'offset': 137300, 'duration': 2600}
+{'lang': 'en', 'text': 'We made them short, concise,', 'offset': 139900, 'duration': 1780}
+{'lang': 'en', 'text': 'straight to the point.', 'offset': 141680, 'duration': 1300}
+{'lang': 'en', 'text': 'And we always led with', 'offset': 142980, 'duration': 1980}
+{'lang': 'en', 'text': 'an interest in perspective.', 'offset': 144960, 'duration': 1680}
+{'lang': 'en', 'text': 'And when you do that,', 'offset': 146640, 'duration': 833}
+{'lang': 'en', 'text': 'and you put that all together.', 'offset': 147473, 'duration': 837}
+{'lang': 'en', 'text': 'And you send maybe five, or ten queries,', 'offset': 148310, 'duration': 2050}
+{'lang': 'en', 'text': 'daily for HARO,', 'offset': 150360, 'duration': 1160}
+{'lang': 'en', 'text': 'you will get back links.', 'offset': 151520, 'duration': 1350}
+{'lang': 'en', 'text': 'The links will add up.', 'offset': 152870, 'duration': 1090}
+{'lang': 'en', 'text': "And, you know, you're just gonna see", 'offset': 153960, 'duration': 1520}
+{'lang': 'en', 'text': 'better and better results with it.', 'offset': 155480, 'duration': 1360}
+{'lang': 'en', 'text': 'Now, to give you some ideas', 'offset': 156840, 'duration': 2100}
+{'lang': 'en', 'text': 'on just how far you can take', 'offset': 158940, 'duration': 1410}
+{'lang': 'en', 'text': 'this with HARO link building.', 'offset': 160350, 'duration': 1550}
+{'lang': 'en', 'text': 'You know, we were getting backlinks', 'offset': 161900, 'duration': 1400}
+{'lang': 'en', 'text': 'from DA 80, DA 90 backlinks,', 'offset': 163300, 'duration': 2850}
+{'lang': 'en', 'text': 'on a regular basis.', 'offset': 166150, 'duration': 980}
+{'lang': 'en', 'text': 'Often the DA 70 links.', 'offset': 167130, 'duration': 1670}
+{'lang': 'en', 'text': 'And this literally\nSkyrocketed the websites DA.', 'offset': 168800, 'duration': 3620}
+{'lang': 'en', 'text': 'In fact, they went from like zero', 'offset': 172420, 'duration': 1807}
+{'lang': 'en', 'text': 'to, to domain rates in 58,', 'offset': 174227, 'duration': 1593}
+{'lang': 'en', 'text': 'in a very short space of time.', 'offset': 175820, 'duration': 1690}
+{'lang': 'en', 'text': 'Now, people often worry', 'offset': 177510, 'duration': 1840}
+{'lang': 'en', 'text': 'that if you build too many backlinks,', 'offset': 179350, 'duration': 1930}
+{'lang': 'en', 'text': 'and if your domain rating\ngoes up too quickly,', 'offset': 181280, 'duration': 2370}
+{'lang': 'en', 'text': 'it can be kind of risky.', 'offset': 183650, 'duration': 1080}
+{'lang': 'en', 'text': 'And you could be risking a Google penalty.', 'offset': 184730, 'duration': 1740}
+{'lang': 'en', 'text': 'But as you can see,', 'offset': 186470, 'duration': 1510}
+{'lang': 'en', 'text': 'for this particular client.', 'offset': 187980, 'duration': 1940}
+{'lang': 'en', 'text': 'The type of backlinks we built', 'offset': 189920, 'duration': 1450}
+{'lang': 'en', 'text': 'was so high quality,', 'offset': 191370, 'duration': 1300}
+{'lang': 'en', 'text': 'that Google just rewards\nthe site, even more.', 'offset': 192670, 'duration': 1980}
+{'lang': 'en', 'text': "I mean, it's gone from zero to 145,000,", 'offset': 194650, 'duration': 2930}
+{'lang': 'en', 'text': 'visitors per month, now.', 'offset': 197580, 'duration': 1430}
+{'lang': 'en', 'text': "But that's actually just increasing.", 'offset': 199010, 'duration': 1480}
+{'lang': 'en', 'text': "And I wouldn't be\nsurprised if that doubles", 'offset': 200490, 'duration': 2200}
+{'lang': 'en', 'text': 'or triples over the following 12 months.', 'offset': 202690, 'duration': 2040}
+{'lang': 'en', 'text': 'So, you can see the sort of ROI you get,', 'offset': 204730, 'duration': 2270}
+{'lang': 'en', 'text': 'with link building.', 'offset': 207000, 'duration': 960}
+{'lang': 'en', 'text': 'And the thing is,', 'offset': 207960, 'duration': 1080}
+{'lang': 'en', 'text': 'this is one of the\nbiggest things we learned', 'offset': 209040, 'duration': 1900}
+{'lang': 'en', 'text': 'from this particular case-study.', 'offset': 210940, 'duration': 2050}
+{'lang': 'en', 'text': 'Is the fact that as soon as we', 'offset': 212990, 'duration': 1350}
+{'lang': 'en', 'text': 'start building links,', 'offset': 214340, 'duration': 1380}
+{'lang': 'en', 'text': "that's when the traffic starts increasing.", 'offset': 215720, 'duration': 1970}
+{'lang': 'en', 'text': 'Okay?', 'offset': 217690, 'duration': 833}
+{'lang': 'en', 'text': "You can't just publish content", 'offset': 218523, 'duration': 957}
+{'lang': 'en', 'text': "and pray that it's gonna run all good.", 'offset': 219480, 'duration': 1590}
+{'lang': 'en', 'text': 'You really have to focus', 'offset': 221070, 'duration': 1710}
+{'lang': 'en', 'text': 'on getting links to your site.', 'offset': 222780, 'duration': 1520}
+{'lang': 'en', 'text': 'In fact, if you type in any sort of', 'offset': 224300, 'duration': 1900}
+{'lang': 'en', 'text': 'search term into Google, these days.', 'offset': 226200, 'duration': 1710}
+{'lang': 'en', 'text': "You'll see that you can't\nrank, without backlinks.", 'offset': 227910, 'duration': 2800}
+{'lang': 'en', 'text': 'I mean, occasionally it can', 'offset': 230710, 'duration': 1390}
+{'lang': 'en', 'text': "if it's a super low competition keyword.", 'offset': 232100, 'duration': 2320}
+{'lang': 'en', 'text': "But 90, 95% of the time, it's not.", 'offset': 234420, 'duration': 2440}
+{'lang': 'en', 'text': 'And you gonna have people building links.', 'offset': 236860, 'duration': 1720}
+{'lang': 'en', 'text': "And if you don't build links,", 'offset': 238580, 'duration': 1080}
+{'lang': 'en', 'text': 'you can buy, as well.', 'offset': 239660, 'duration': 1336}
+{'lang': 'en', 'text': 'So, you really needs to nail this aspect', 'offset': 240996, 'duration': 2224}
+{'lang': 'en', 'text': 'if you want to see results', 'offset': 243220, 'duration': 1210}
+{'lang': 'en', 'text': 'with link building.', 'offset': 244430, 'duration': 1410}
+{'lang': 'en', 'text': 'For example, you can\nsee a direct correlation', 'offset': 245840, 'duration': 2070}
+{'lang': 'en', 'text': 'between the links that\nwe started building,', 'offset': 247910, 'duration': 2340}
+{'lang': 'en', 'text': 'and the traffic for this website.', 'offset': 250250, 'duration': 1800}
+{'lang': 'en', 'text': 'I mean, it was almost instantaneous.', 'offset': 252050, 'duration': 1640}
+{'lang': 'en', 'text': 'As soon as we got links for this site,', 'offset': 253690, 'duration': 1620}
+{'lang': 'en', 'text': 'the backlinks increased too.', 'offset': 255310, 'duration': 1420}
+{'lang': 'en', 'text': "Now, you may be thinking,\nokay, that's great.", 'offset': 256730, 'duration': 3200}
+{'lang': 'en', 'text': 'You build links for the site.', 'offset': 259930, 'duration': 1730}
+{'lang': 'en', 'text': 'Is traffic increased?', 'offset': 261660, 'duration': 1370}
+{'lang': 'en', 'text': 'Well done.', 'offset': 263030, 'duration': 880}
+{'lang': 'en', 'text': 'But is this really gonna\nwork for my site too?', 'offset': 263910, 'duration': 2100}
+{'lang': 'en', 'text': 'Well, the thing is the\nclient actually hired us', 'offset': 266010, 'duration': 2110}
+{'lang': 'en', 'text': 'for two of the other websites,', 'offset': 268120, 'duration': 1790}
+{'lang': 'en', 'text': 'as soon she saw the\nresults for this site too.', 'offset': 269910, 'duration': 2730}
+{'lang': 'en', 'text': 'So, when we started building\nlinks for signaturely.', 'offset': 272640, 'duration': 2690}
+{'lang': 'en', 'text': 'We also started building\nlinks for apple.com,', 'offset': 275330, 'duration': 2910}
+{'lang': 'en', 'text': 'and messaging too,', 'offset': 278240, 'duration': 1200}
+{'lang': 'en', 'text': 'two of the other brands in the business.', 'offset': 279440, 'duration': 2230}
+{'lang': 'en', 'text': 'And the same sort of results occurred.', 'offset': 281670, 'duration': 1960}
+{'lang': 'en', 'text': 'As soon as you started building links.', 'offset': 283630, 'duration': 1207}
+{'lang': 'en', 'text': 'The traffic Skyrocketed.', 'offset': 284837, 'duration': 1713}
+{'lang': 'en', 'text': 'They got some awesome links.', 'offset': 286550, 'duration': 1570}
+{'lang': 'en', 'text': 'You know, some from Forbes, for example.', 'offset': 288120, 'duration': 2120}
+{'lang': 'en', 'text': 'And there was just a direct\ncorrelation every time', 'offset': 290240, 'duration': 2780}
+{'lang': 'en', 'text': 'between the links we built,', 'offset': 293020, 'duration': 1560}
+{'lang': 'en', 'text': 'and the results they got.', 'offset': 294580, 'duration': 1280}
+{'lang': 'en', 'text': 'So, seriously, HARO Link building,', 'offset': 295860, 'duration': 1780}
+{'lang': 'en', 'text': 'is one of my favorite\nlink builder strategies', 'offset': 297640, 'duration': 2830}
+{'lang': 'en', 'text': 'out there, right now.', 'offset': 300470, 'duration': 1210}
+{'lang': 'en', 'text': 'You know, when it comes to link building,', 'offset': 301680, 'duration': 1820}
+{'lang': 'en', 'text': 'you have dozens of choices, right?', 'offset': 303500, 'duration': 2710}
+{'lang': 'en', 'text': 'You can build links at Forums.', 'offset': 306210, 'duration': 1170}
+{'lang': 'en', 'text': 'You could build links at Reddit.', 'offset': 307380, 'duration': 1460}
+{'lang': 'en', 'text': 'You could get crappy\nlinks from Directories,', 'offset': 308840, 'duration': 2030}
+{'lang': 'en', 'text': 'for example.', 'offset': 310870, 'duration': 1030}
+{'lang': 'en', 'text': "But those techniques don't seem to work.", 'offset': 311900, 'duration': 1940}
+{'lang': 'en', 'text': 'You really have to focus on quality.', 'offset': 313840, 'duration': 1290}
+{'lang': 'en', 'text': 'And when I say quality.', 'offset': 315130, 'duration': 1450}
+{'lang': 'en', 'text': 'I would say my top three\nlink building strategies,', 'offset': 316580, 'duration': 2300}
+{'lang': 'en', 'text': 'right now, are HARO, Video Outreach-', 'offset': 318880, 'duration': 3150}
+{'lang': 'en', 'text': "Check out my videos if\nyou don't know about that.", 'offset': 322030, 'duration': 2050}
+{'lang': 'en', 'text': 'and also, The Skyscraper Technique.', 'offset': 324080, 'duration': 2750}
+{'lang': 'en', 'text': 'The Skyscraper Technique is tried,', 'offset': 326830, 'duration': 1260}
+{'lang': 'en', 'text': 'tested and proven.', 'offset': 328090, 'duration': 1210}
+{'lang': 'en', 'text': "But I've a HARO video outreach,", 'offset': 329300, 'duration': 2350}
+{'lang': 'en', 'text': 'or The Skyscraper Technique,', 'offset': 331650, 'duration': 1830}
+{'lang': 'en', 'text': 'are three options that you can easily', 'offset': 333480, 'duration': 1930}
+{'lang': 'en', 'text': 'use for your website.', 'offset': 335410, 'duration': 980}
+{'lang': 'en', 'text': 'And if you wanna get results fast?', 'offset': 336390, 'duration': 2030}
+{'lang': 'en', 'text': "That's the way we do at our agency.", 'offset': 338420, 'duration': 1560}
+{'lang': 'en', 'text': "So, I'd highly recommend it to you too.", 'offset': 339980, 'duration': 2350}
+{'lang': 'en', 'text': 'Now, what I would say is\nthat SEO, is very simple.', 'offset': 342330, 'duration': 3220}
+{'lang': 'en', 'text': "It's pretty much the same\nformula every single time.", 'offset': 345550, 'duration': 2410}
+{'lang': 'en', 'text': "You know, it's kinda like baking a cake.", 'offset': 347960, 'duration': 1220}
+{'lang': 'en', 'text': 'Correct?', 'offset': 349180, 'duration': 833}
+{'lang': 'en', 'text': 'If you have the right ingredients,', 'offset': 350013, 'duration': 1117}
+{'lang': 'en', 'text': 'and use those ingredients, every time,', 'offset': 351130, 'duration': 2550}
+{'lang': 'en', 'text': 'at the highest quality possible you can.', 'offset': 353680, 'duration': 2020}
+{'lang': 'en', 'text': "Then you're gonna see awesome results.", 'offset': 355700, 'duration': 987}
+{'lang': 'en', 'text': "You're gonna bake an awesome cake.", 'offset': 356687, 'duration': 1613}
+{'lang': 'en', 'text': "Either way, you're\ngoing to get the results", 'offset': 358300, 'duration': 1980}
+{'lang': 'en', 'text': "you're looking for.", 'offset': 360280, 'duration': 833}
+{'lang': 'en', 'text': 'So, with SEO, you have to get backlinks', 'offset': 361113, 'duration': 2227}
+{'lang': 'en', 'text': 'but you also have to focus', 'offset': 363340, 'duration': 1140}
+{'lang': 'en', 'text': 'on other elements of your site too.', 'offset': 364480, 'duration': 1950}
+{'lang': 'en', 'text': 'So, backlinks are great.', 'offset': 366430, 'duration': 1520}
+{'lang': 'en', 'text': 'But if you wanna maximize your results', 'offset': 367950, 'duration': 1550}
+{'lang': 'en', 'text': 'of Link building,', 'offset': 369500, 'duration': 910}
+{'lang': 'en', 'text': 'then you should also be producing content.', 'offset': 370410, 'duration': 2100}
+{'lang': 'en', 'text': 'You should be targeting\nlow competition keywords.', 'offset': 372510, 'duration': 2230}
+{'lang': 'en', 'text': 'You should be nailing your on-page SEO.', 'offset': 374740, 'duration': 2020}
+{'lang': 'en', 'text': 'And the great thing about\nworking with this client is', 'offset': 376760, 'duration': 1760}
+{'lang': 'en', 'text': 'that they were also producing', 'offset': 378520, 'duration': 1210}
+{'lang': 'en', 'text': 'some awesome content too.', 'offset': 379730, 'duration': 1570}
+{'lang': 'en', 'text': 'So, if you check out their site, you know,', 'offset': 381300, 'duration': 1450}
+{'lang': 'en', 'text': 'the user interface is on point.', 'offset': 382750, 'duration': 2070}
+{'lang': 'en', 'text': 'The designer is on point.', 'offset': 384820, 'duration': 1010}
+{'lang': 'en', 'text': 'The branding is on point,', 'offset': 385830, 'duration': 1390}
+{'lang': 'en', 'text': 'and they also produce\nsome awesome content.', 'offset': 387220, 'duration': 1900}
+{'lang': 'en', 'text': 'And when you have all of\nthese elements in combination,', 'offset': 389120, 'duration': 3300}
+{'lang': 'en', 'text': 'and they working as a system together.', 'offset': 392420, 'duration': 2310}
+{'lang': 'en', 'text': "That's when you see huge\nresults just like this.", 'offset': 394730, 'duration': 2760}
+{'lang': 'en', 'text': 'So, I would recommend getting backlinks.', 'offset': 397490, 'duration': 2220}
+{'lang': 'en', 'text': "You know, that's DA 80, 20 0rule.", 'offset': 399710, 'duration': 1400}
+{'lang': 'en', 'text': "You're gonna get 80% of the results,", 'offset': 401110, 'duration': 1450}
+{'lang': 'en', 'text': 'with 20% of the work.', 'offset': 402560, 'duration': 1330}
+{'lang': 'en', 'text': "But also make sure that you're producing", 'offset': 403890, 'duration': 1287}
+{'lang': 'en', 'text': 'plenty of content.', 'offset': 405177, 'duration': 1053}
+{'lang': 'en', 'text': "Make sure that you're\noptimizing your keywords.", 'offset': 406230, 'duration': 2140}
+{'lang': 'en', 'text': "Make sure that you're really focusing", 'offset': 408370, 'duration': 2300}
+{'lang': 'en', 'text': 'on conversimilary optimization.', 'offset': 410670, 'duration': 1540}
+{'lang': 'en', 'text': 'So that when people jump on your website,', 'offset': 412210, 'duration': 2090}
+{'lang': 'en', 'text': "they don't just pogo stick off,", 'offset': 414300, 'duration': 1730}
+{'lang': 'en', 'text': 'back to Google.', 'offset': 416030, 'duration': 870}
+{'lang': 'en', 'text': 'But they actually stick around,', 'offset': 416900, 'duration': 1110}
+{'lang': 'en', 'text': 'read your content, engage with it,', 'offset': 418010, 'duration': 1960}
+{'lang': 'en', 'text': 'and eventually convert\nfrom a lead into a sale.', 'offset': 419970, 'duration': 4270}
+{'lang': 'en', 'text': 'The other thing that I would say', 'offset': 424240, 'duration': 1250}
+{'lang': 'en', 'text': 'with this particular client,', 'offset': 425490, 'duration': 1380}
+{'lang': 'en', 'text': 'was that they were consistent over time.', 'offset': 426870, 'duration': 2090}
+{'lang': 'en', 'text': 'So, month one, they got some results.', 'offset': 428960, 'duration': 1800}
+{'lang': 'en', 'text': 'Month two, they got better results.', 'offset': 430760, 'duration': 2570}
+{'lang': 'en', 'text': 'Monthly three, their\ntraffic was really pumped in', 'offset': 433330, 'duration': 2040}
+{'lang': 'en', 'text': 'and it was growing at a quick rate.', 'offset': 435370, 'duration': 1900}
+{'lang': 'en', 'text': 'But the thing is over time, exponentially,', 'offset': 437270, 'duration': 4190}
+{'lang': 'en', 'text': 'the increases in traffic,', 'offset': 441460, 'duration': 1460}
+{'lang': 'en', 'text': 'just got larger and larger each month.', 'offset': 442920, 'duration': 1870}
+{'lang': 'en', 'text': 'And this is the thing\nyou have to really think', 'offset': 444790, 'duration': 1720}
+{'lang': 'en', 'text': 'about link bulding and SEO,', 'offset': 446510, 'duration': 1610}
+{'lang': 'en', 'text': 'as the snowball effect.', 'offset': 448120, 'duration': 1310}
+{'lang': 'en', 'text': 'What I mean by this is, is', 'offset': 449430, 'duration': 1580}
+{'lang': 'en', 'text': 'as you do more and more work,', 'offset': 451010, 'duration': 1450}
+{'lang': 'en', 'text': 'and the snowball rolls down the hill.', 'offset': 452460, 'duration': 2000}
+{'lang': 'en', 'text': "It's just gonna gather up more momentum.", 'offset': 454460, 'duration': 1750}
+{'lang': 'en', 'text': 'Is gonna get bigger,', 'offset': 456210, 'duration': 1080}
+{'lang': 'en', 'text': 'and your traffic will gradually increase', 'offset': 457290, 'duration': 2710}
+{'lang': 'en', 'text': 'more and more.', 'offset': 460000, 'duration': 940}
+{'lang': 'en', 'text': 'So, you have to be consistent\nwith Link building.', 'offset': 460940, 'duration': 2010}
+{'lang': 'en', 'text': "Even if you don't see results\nwithin the first 30 days,", 'offset': 462950, 'duration': 2480}
+{'lang': 'en', 'text': 'or the first couple of months.', 'offset': 465430, 'duration': 1220}
+{'lang': 'en', 'text': "That doesn't matter.", 'offset': 466650, 'duration': 833}
+{'lang': 'en', 'text': 'Focus on being consistent,', 'offset': 467483, 'duration': 1517}
+{'lang': 'en', 'text': 'give it time.', 'offset': 469000, 'duration': 860}
+{'lang': 'en', 'text': 'Be patient,', 'offset': 469860, 'duration': 833}
+{'lang': 'en', 'text': 'and you will see your\nrankings increase gradually.', 'offset': 470693, 'duration': 3817}
+{'lang': 'en', 'text': "It's just not an overnight job", 'offset': 474510, 'duration': 1240}
+{'lang': 'en', 'text': "because we've Googled.", 'offset': 475750, 'duration': 1610}
+{'lang': 'en', 'text': 'They have to trust your website,', 'offset': 477360, 'duration': 1330}
+{'lang': 'en', 'text': "especially, if you're a new site.", 'offset': 478690, 'duration': 1160}
+{'lang': 'en', 'text': 'You have to build up authority', 'offset': 479850, 'duration': 1350}
+{'lang': 'en', 'text': 'and you have to do that consistently.', 'offset': 481200, 'duration': 1850}
+{'lang': 'en', 'text': 'Otherwise, if it was easy,', 'offset': 483050, 'duration': 980}
+{'lang': 'en', 'text': 'Google would just rank\nevery website number one.', 'offset': 484030, 'duration': 2260}
+{'lang': 'en', 'text': 'And that would happen overnight,', 'offset': 486290, 'duration': 1140}
+{'lang': 'en', 'text': "and then Google's rankings", 'offset': 487430, 'duration': 1570}
+{'lang': 'en', 'text': "wouldn't really be very efficient,", 'offset': 489000, 'duration': 1900}
+{'lang': 'en', 'text': 'or very helpful for the user.', 'offset': 490900, 'duration': 2020}
+{'lang': 'en', 'text': "So, that's why it's so\nimportant to be consistent", 'offset': 492920, 'duration': 2510}
+{'lang': 'en', 'text': "with the link building you're doing.", 'offset': 495430, 'duration': 1300}
+{'lang': 'en', 'text': 'So, thanks for watching guys.', 'offset': 496730, 'duration': 1090}
+{'lang': 'en', 'text': 'I hope this video helped you.', 'offset': 497820, 'duration': 1130}
+{'lang': 'en', 'text': 'Like I say,', 'offset': 498950, 'duration': 833}
+{'lang': 'en', 'text': 'the HARO Link Building\nTechnique is working so well', 'offset': 499783, 'duration': 2327}
+{'lang': 'en', 'text': 'right now,', 'offset': 502110, 'duration': 833}
+{'lang': 'en', 'text': 'but also the Skyscraper Technique too.', 'offset': 502943, 'duration': 1197}
+{'lang': 'en', 'text': 'And if you want similar results.', 'offset': 504140, 'duration': 1270}
+{'lang': 'en', 'text': 'I would definitely recommend that to you.', 'offset': 505410, 'duration': 1570}
+{'lang': 'en', 'text': 'Now, if you want to\noutsource your link building?', 'offset': 506980, 'duration': 3070}
+{'lang': 'en', 'text': 'I do run a link building\nagency @juliangoldy.com.', 'offset': 510050, 'duration': 3410}
+{'lang': 'en', 'text': "I'll leave the link in description below.", 'offset': 513460, 'duration': 1790}
+{'lang': 'en', 'text': 'And if you want to book\nin a free consultation?', 'offset': 515250, 'duration': 2710}
+{'lang': 'en', 'text': 'Get a strategy session\nand discover exactly how', 'offset': 517960, 'duration': 2410}
+{'lang': 'en', 'text': 'to grow your website with link building,', 'offset': 520370, 'duration': 1840}
+{'lang': 'en', 'text': 'and SEO.', 'offset': 522210, 'duration': 833}
+{'lang': 'en', 'text': 'Make sure you book in a call.', 'offset': 523043, 'duration': 1315}
+{'lang': 'en', 'text': "That's completely free,", 'offset': 524358, 'duration': 1222}
+{'lang': 'en', 'text': "and we'll be happy to help you, with that.", 'offset': 525580, 'duration': 2920}
+{'lang': 'en', 'text': 'Thanks for watching.', 'offset': 528500, 'duration': 1000}
